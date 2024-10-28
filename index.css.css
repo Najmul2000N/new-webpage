@@ -20,6 +20,7 @@
 .logo{
     height: auto;
     width: 140px;
+    user-drag: none;
 }
 
 nav{
