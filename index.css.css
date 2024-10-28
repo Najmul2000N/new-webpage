@@ -67,6 +67,7 @@ nav{
 
 .btn:hover{
     opacity: 0.7;
+    border-radious: 50%;
 }
 
 .page{
