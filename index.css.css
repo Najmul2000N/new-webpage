@@ -9,12 +9,12 @@
 .hero{
     min-height: 100vh;
     width: 100%;
-    background-image: url(back-image.png);
+    background-image: url(assets/back-image.png);
     background-position: center;
     background-size: cover;
     padding: 10px 10%;
     overflow: hidden;
-    flex-direction: wrap;
+    
 }
 
 .logo{
@@ -30,7 +30,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    flex-direction: wrap;
+
 }
 
 .about{
